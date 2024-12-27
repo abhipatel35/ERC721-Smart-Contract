@@ -36,7 +36,7 @@ This repository contains an ERC-721 compliant smart contract developed in Solidi
 1. Create a new repository on GitHub.
 2. Clone the repository to your local machine:
    ```bash
-    git clone https://github.com/your-username/ERC721-Token-Smart-Contract.git
+    git clone https://github.com/abhipatel35/ERC721-Token-Smart-Contract.git
 3. Add the files (ERC721_Abhi_Patel.sol, README.md, and LICENSE) to the repository folder.
 4. Push the files to GitHub:
    ```bash
